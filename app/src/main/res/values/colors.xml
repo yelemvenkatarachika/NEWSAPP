@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Add the missing primary color -->
+    <color name="primary">#FF6200EE</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="gray">#808080</color> <!-- Example Gray Color -->
+    <color name="lightBackground">#121212</color> <!-- Dark background for better white text visibility -->
+    <color name="blue">#2196F3</color> <!-- Blue for Next -->
+    <color name="red">#F44336</color> <!-- Red for Skip -->
+    <color name="white">#FFFFFF</color> <!-- Pure White -->
+
+
+</resources>

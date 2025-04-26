@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="countryText" type="id">countryText</item>
+    <item name="languageText" type="id">languageText</item>
+    <item name="genreText" type="id">genreText</item>
+</resources>
